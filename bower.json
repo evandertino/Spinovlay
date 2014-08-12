@@ -1,0 +1,22 @@
+{
+  "name": "Spinovlay",
+  "version": "0.0.2",
+  "homepage": "https://github.com/evandertino/Spinovlay",
+  "authors": [
+    "Evander Bergman <evanderbergman@gmail.com>"
+  ],
+  "description": "An innovation done from iosOverlay",
+  "main": "iosOverlay.js, spin.min.js, iosOverlay.css",
+  "keywords": [
+    "overlay",
+    "spin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
