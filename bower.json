@@ -6,7 +6,11 @@
     "Evander Bergman <evanderbergman@gmail.com>"
   ],
   "description": "An innovation done from iosOverlay",
-  "main": "iosOverlay.js, spin.min.js, iosOverlay.css",
+  "main": [
+    "js/iosOverlay.js",
+    "js/spin.min.js",
+    "css/iosOverlay.css"
+  ]
   "keywords": [
     "overlay",
     "spin"
