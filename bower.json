@@ -10,7 +10,7 @@
     "js/iosOverlay.js",
     "js/spin.min.js",
     "css/iosOverlay.css"
-  ]
+  ],
   "keywords": [
     "overlay",
     "spin"
